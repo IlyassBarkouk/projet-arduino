@@ -1,6 +1,6 @@
 # Projet Arduino - Système de Gestion de Maison Intelligente
 
-Ce projet utilise un Arduino Mega 2560 pour créer un système de gestion de maison intelligente. Il permet de contrôler à distance différents appareils (lumières, ventilateurs, thermostats) à partir d'une interface web.
+Ce projet utilise un Arduino Mega 2560 pour créer un système de gestion de maison intelligente. Il permet de contrôler à distance différents appareils (lumières, alarmes, boutons, portes) à partir d'une interface web.
 
 ## 📁 Structure du Projet
 
